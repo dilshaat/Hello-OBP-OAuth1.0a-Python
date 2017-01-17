@@ -39,8 +39,8 @@ MY_BANK = 'dan.01.uk.uk'
 
 # The counterparty we want to send money to
 
-COUNTERPARTY_BANK = 'obp-bank-x-gh'
-COUNTERPARTY_ACCOUNT_ID = '213527de-c423-452a-b2f8-8475e4cc2cfe'
+COUNTERPARTY_BANK = 'dan.01.uk.uk'
+COUNTERPARTY_ACCOUNT_ID = '205545ae-49ce-4ee5-b3d6-b650b7989e6b'
 
 # Currency used for payment
 PAYMENT_CURRENCY = 'GBP'
